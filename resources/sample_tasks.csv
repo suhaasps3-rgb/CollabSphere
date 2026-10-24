@@ -1,0 +1,7 @@
+# Sample file for File > Import Tasks.  Format: Title,Description
+Title,Description
+Design ER diagram,Draw the 7-table ER diagram for the SRS appendix
+Create login screen,Swing form with CardLayout for login and register
+Write JDBC DAO classes,PreparedStatement based CRUD for every table
+Implement chat polling thread,Background thread that refreshes every 3 seconds
+Prepare final presentation,Slides + demo script for the review
